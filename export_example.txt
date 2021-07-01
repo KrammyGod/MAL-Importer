@@ -1,0 +1,7 @@
+// THIS IS AN EXAMPLE OF HOW IT SHOULD LOOK LIKE, DO NOT RUN THE PROGRAM WITH THIS FILE, IT WILL NOT WORK.
+// SEPARATE SECTIONS WITH # watched OR # watching, AND ADD THE LINKS TO THE ANIME UNDER IT
+// THIS WORKS EXTREMELY WELL WITH 9ANIME EXPORT (CHECK "Group by folder" CHECKBOX)
+# watched
+http://myanimelist.net/anime/41457/86
+# watching
+http://myanimelist.net/anime/49235/86_Special
